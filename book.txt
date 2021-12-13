@@ -1,0 +1,10 @@
+"D:\venv\selenium_fastapi\Scripts\activate.bat"
+
+télécharger phantomjs
+    https://www.it-swarm-fr.com/fr/python/est-il-possible-de-cacher-le-navigateur-dans-selenium-rc/967117322/
+
+creation d'environnement virtuelle sous linux
+    python3 -m venv sgbci
+
+lancement:
+    source /media/rk/save/venv/sgbci/bin/activate
